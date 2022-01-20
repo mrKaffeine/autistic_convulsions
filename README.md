@@ -6,7 +6,7 @@ From the [SkillFactory Data Science courses](https://skillfactory.ru/data-scient
 
 ## Projects:
 
-* [Project 0. Game: Guess the number](https://github.com/mrKaffeine/autistic_convulsions/project_0)
+* [Project 0. Game: Guess the number](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0)
 * [Project 1. In Progress...]
 
 ## Link to my CV
