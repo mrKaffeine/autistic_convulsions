@@ -2,11 +2,9 @@
 
 From the [SkillFactory Data Science courses](https://skillfactory.ru/data-scientist).
 
-*Tough path from zero to hero.*
+## Проекты
 
-## Projects:
+* [Проект 0. Игра: угадай число](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0)
+* [Проект 1. В разработке...]
 
-* [Project 0. Game: Guess the number](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0)
-* [Project 1. In Progress...]
-
-## Link to my CV
+## Ссылки на мое резюме
