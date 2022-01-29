@@ -1,12 +1,12 @@
 # Project 0. Game: Guess the number
 
 ## Contents:
-[1. Description](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Description) 
-[2. What case is being solved?](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#What-case-is-being-solved?)
-[3. Data synopsis](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Data-synopsis) 
-[4. Stages of work on the project](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Stages-of-work-on-the-project) 
-[5. Result](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Result) 
-[6. Conclusion](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Conclusion) 
+- [1. Description](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Description) 
+- [2. What case is being solved?](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#What-case-is-being-solved?)
+- [3. Data synopsis](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Data-synopsis) 
+- [4. Stages of work on the project](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Stages-of-work-on-the-project) 
+- [5. Result](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Result) 
+- [6. Conclusion](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_0/README(en).md#Conclusion) 
 
 ### Description
 Guess the number picked by computer with minimum tries.
