@@ -127,3 +127,33 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+project_1/base/dst-3.0_16_1_hh_database.csv
+PY_10: Введение в Pandas/beginning.py
+PY_10: Введение в Pandas/data/countries.csv
+PY_10: Введение в Pandas/data/melb_data.csv
+PY_10: Введение в Pandas/data/students_performance.csv
+PY_11: Базовые приемы работы с данными в  Pandas/beginning_2
+PY_11: Базовые приемы работы с данными в  Pandas/Task 6
+PY_11: Базовые приемы работы с данными в  Pandas/ufo sights
+PY_11: Базовые приемы работы с данными в  Pandas/data/melb_data_ps.csv
+PY_12: Продвинутые методы работы с данными в Pandas/beginning
+PY_12: Продвинутые методы работы с данными в Pandas/products_orders
+PY_12: Продвинутые методы работы с данными в Pandas/data/melb_data_fe.csv
+PY_12: Продвинутые методы работы с данными в Pandas/data/movies_data/dates.csv
+PY_12: Продвинутые методы работы с данными в Pandas/data/movies_data/movies.csv
+PY_12: Продвинутые методы работы с данными в Pandas/data/movies_data/ratings_movies.csv
+PY_12: Продвинутые методы работы с данными в Pandas/data/movies_data/ratings1.csv
+PY_12: Продвинутые методы работы с данными в Pandas/data/movies_data/ratings2.csv
+PY_12: Продвинутые методы работы с данными в Pandas/data/orders_and_products/orders.csv
+PY_12: Продвинутые методы работы с данными в Pandas/data/orders_and_products/products.csv
+PY_13: Визуализация данных/beginning
+PY_13: Визуализация данных/covid.ipynb
+PY_13: Визуализация данных/data/churn.csv
+PY_13: Визуализация данных/data/country_vaccinations.csv
+PY_13: Визуализация данных/data/covid_data.csv
+PY_14: Очистка данных/Diabetes.ipynb
+PY_14: Очистка данных/sber-jvsc-d3db902a-08dc-4b3d-9617-2166e250552a.ipynb
+PY_14: Очистка данных/sber.ipynb
+PY_14: Очистка данных/data/diabetes_data.csv
+PY_14: Очистка данных/data/sber_data.csv
+PY_15: Принципы ООП в Python и отладка кода/test.ipynb
