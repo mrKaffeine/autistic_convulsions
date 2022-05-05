@@ -18,7 +18,7 @@
 
 ### Краткая информация о данных
 **Переменные**
-- data: .csv датафрейм с данными о соискателях
+- 'data' - содержит .csv датафрейм с данными о соискателях.
 
 **Датафрейм**
 - [Ссылка на .csv файл с данными](https://drive.google.com/drive/folders/1vZBLFyEvgQbk-WsAjP1_Pcm_SEXBWU1_?usp=sharing)
