@@ -23,6 +23,7 @@
 **Датафрейм**
 - [Ссылка на .csv файл с данными](https://drive.google.com/drive/folders/1vZBLFyEvgQbk-WsAjP1_Pcm_SEXBWU1_?usp=sharing)
 
+**Визулизация**
 - [Папка с графиками plotly в формате .html](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_1/vis)
 
 :arrow_up: [к оглавлению](https://github.com/mrKaffeine/autistic_convulsions/tree/main/project_1/README.md#Оглавление)
